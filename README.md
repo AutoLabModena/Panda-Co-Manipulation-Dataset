@@ -17,12 +17,12 @@ Six recordings were made for each symbols, by fixing the start and end point to 
 
 A key feature of the dataset is that symbol's recordings of the same group do not differ in path, but instead vary significantly in time, including speed variations and pauses. <br>
 The recordings are provided both as MATLAB and Python structures in every symbol folder, named respectively as __symbol_data.mat__ and __symbol_data.npy__ . The structure is the following: <br>
->
-> symbol_data: Structure of 6 elements with fields
->     symbol_data[i].pos : end-effector position recordings [3xT]
->     symbol_data[i].vel : end-effector velocity recordings [3xT]
->     symbol_data[i].F : end-effector force recordings [3xT]
->
+<br>
+> symbol_data: Structure of 6 elements with fields <br>
+>     symbol_data[i].pos : end-effector position recordings [3xT] <br>
+>     symbol_data[i].vel : end-effector velocity recordings [3xT] <br>
+>     symbol_data[i].F : end-effector force recordings [3xT] <br>
+<br>
 where **T** defines the number of samples for each recording.
 
 
