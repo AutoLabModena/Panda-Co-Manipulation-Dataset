@@ -1,6 +1,6 @@
 # Panda-Co-Manipulation-Dataset
-A dataset of Franka Emika Panda recordings of 2D symbols.
------
+## A dataset of Franka Emika Panda recordings of 2D symbols.
+
 
 Welcome to the **Panda Co-Manipulation Dataset** page!
 This is a public available dataset and comprises of 21 different 2D symbols. Each symbol was printed in A4 format, then traced back with the help of a Franka Emika Panda robot, equipped with a Schunk FT-AXIA force/torque sensor.
