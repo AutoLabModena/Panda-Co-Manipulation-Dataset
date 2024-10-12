@@ -23,7 +23,17 @@ The recordings are provided both as MATLAB and Python structures in every symbol
 > --- symbol_data[i].vel : end-effector velocity recordings [3xT] <br>
 > --- symbol_data[i].F : end-effector force recordings [3xT] <br>
 <br>
-where **T** defines the number of samples for each recording.
+where T defines the number of samples for each recording.
+
+Load **MATLAB** file example:
+'''
+% Load symbol_data.mat
+load('symbol_data.mat');
+i = 2; % 2nd recording
+pos = symbol_data(i).pos;
+vel = symbol_data(i).vel;
+F   = symbol_data(i).F;
+'''
 
 
 
