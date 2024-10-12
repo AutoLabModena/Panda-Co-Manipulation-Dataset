@@ -26,11 +26,10 @@ The recordings are provided both as MATLAB and Python structures in every symbol
 where T defines the number of samples for each recording.
 
 
-
 <div style="display: flex; justify-content: space-between;">
 
 <div style="width: 48%;">
-  
+
   Load **MATLAB** file example:
   
   ```matlab
@@ -40,7 +39,7 @@ where T defines the number of samples for each recording.
   pos = symbol_data(i).pos;
   vel = symbol_data(i).vel;
   F   = symbol_data(i).F;
-</div> <div style="width: 48%;">
+
 # Load symbol_data.mat (using scipy.io for MATLAB files)
 import scipy.io
 data = scipy.io.loadmat('symbol_data.mat')
@@ -48,6 +47,6 @@ i = 2 # 2nd recording
 pos = data['symbol_data'][i]['pos']
 vel = data['symbol_data'][i]['vel']
 F   = data['symbol_data'][i]['F']
-```
+
 
 
