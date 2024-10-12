@@ -11,8 +11,8 @@ Six recordings were made for each symbols, by fixing the start and end point to 
   <img src="https://github.com/user-attachments/assets/67841964-ded2-4989-a49e-a0452c548ffa" width="200" />
   <img src="https://github.com/user-attachments/assets/16bad41f-8c7f-46ee-8cf4-e21c8f67b6fa" width="200" />
   <img src="https://github.com/user-attachments/assets/ced2d879-6b27-423c-94de-d0b201010374" width="200" />
+  <img src="https://github.com/user-attachments/assets/d4ea2900-801a-4849-bc18-1de5950609e3" width="200" />
 </p>
-
 
 
 A key feature of the dataset is that symbol's recordings of the same group do not differ in path, but instead vary significantly in time, including speed variations and pauses.
