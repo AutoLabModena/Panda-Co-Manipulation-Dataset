@@ -10,7 +10,7 @@ Six recordings were made for each symbols, by fixing the start and end point to 
 A key feature of the dataset is that symbol's recordings of the same group do not differ in path, but instead vary significantly in time, including speed variations and pauses.
 
 
-![panda_comanipulation_ds_py.pdf](https://github.com/user-attachments/files/17349610/panda_comanipulation_ds_py.pdf)
+![dataset](https://github.com/user-attachments/assets/dcf92aaf-e12a-4233-add4-427d039acaeb)
 
 
 
