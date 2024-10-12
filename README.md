@@ -27,7 +27,7 @@ where T defines the number of samples for each recording.
 
 
 Load **MATLAB** file example:
-```
+```matlab
 load('symbol_data.mat');
 i = 2; % 2nd recording
 pos = symbol_data(i).pos;
@@ -35,7 +35,7 @@ vel = symbol_data(i).vel;
 F   = symbol_data(i).F;
 ```
 Load **Python** file example:
-```
+```python
 import numpy as np
 symbol_data = np.load('symbol_data.npy')
 i = 2 # 2nd recording
