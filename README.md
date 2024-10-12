@@ -46,6 +46,7 @@ F   = symbol_data[i]['F']
 <br>
 <br>
 <br>
+
 The Panda Co-Manipulation Dataset was introducted as part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. <br>
 If you find this dataset useful for your work/research, please cite:
 ```bibtex
