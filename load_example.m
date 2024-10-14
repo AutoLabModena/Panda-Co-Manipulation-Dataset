@@ -9,7 +9,7 @@
 
 clear; clc; close all;
 
-load("Panda_CoManipulation_Data/4/symbol_data.mat");
+load("Panda_CoManipulation_Data/04/symbol_data.mat");
 Ts = 0.001; % Sampling time of recordings
 
 figure;  
