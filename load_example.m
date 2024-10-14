@@ -10,7 +10,7 @@
 clear; clc; close all;
 
 load("Panda_CoManipulation_Data/04/symbol_data.mat");
-Ts = 0.001; % Sampling time of recordings
+Ts = 0.001; % Sampling-time of recordings
 
 figure;  
 for i=1:6
