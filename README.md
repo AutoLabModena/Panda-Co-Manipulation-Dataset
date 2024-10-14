@@ -60,3 +60,14 @@ If you find this dataset useful for your work/research, please cite:
       url={https://arxiv.org/abs/2401.08238}, 
 }
 ```
+
+## Folders
+
+- **Panda_CoManipulation_Data/** : dataset files in .mat and .npy format, for each symbol a .pdf file depicting the respective symbol is included;
+- **load_example.m** : a MATLAB code to plot symbol recordings;
+- **load_example.py** : a Python code to plot symbol recordings;
+
+## Questions & Suggestions
+For any doubt, question or suggestion, please feel free to email at:
+__giovanni.braglia@unimore.it__
+
