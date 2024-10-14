@@ -31,7 +31,7 @@ for i in range(6):
 
 
 #------------------ 
-#ax0.legend() 
+ax0.legend() 
 ax0.grid()
 ax0.set_xlim([-0.6,-0.35])
 ax0.set_ylim([-0.45,-0.15])
@@ -39,13 +39,11 @@ ax0.set_xlabel(r'$x$[m]', fontsize=14 )
 ax0.set_ylabel(r'$y$[m]', fontsize=14 )
 
 #------------------
-#ax1.legend() 
 ax1.grid()
 ax1.set_xlabel(r'$t$[s]', fontsize=14 )
 ax1.set_ylabel(r'$x$[m]', fontsize=14 )
 
 #------------------
-#ax2.legend() 
 ax2.grid()
 ax2.set_xlabel(r'$t$[s]', fontsize=14 )
 ax2.set_ylabel(r'$y$[m]', fontsize=14 )
