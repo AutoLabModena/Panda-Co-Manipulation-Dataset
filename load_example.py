@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-symbol_data = np.load( "Panda_CoManipulation_Data/4/symbol_data.npy", allow_pickle=True )
+symbol_data = np.load( "Panda_CoManipulation_Data/04/symbol_data.npy", allow_pickle=True )
 Ts = 0.001 # Sampling-time of recordings
 
 plt.figure( figsize=(8,6) )
