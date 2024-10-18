@@ -41,12 +41,12 @@ ax0.set_ylabel(r'$y$[m]', fontsize=14 )
 #------------------
 ax1.grid()
 ax1.set_xlabel(r'$t$[s]', fontsize=14 )
-ax1.set_ylabel(r'$\dot{x}$[m]', fontsize=14 )
+ax1.set_ylabel(r'$\dot{x}$[m/s]', fontsize=14 )
 
 #------------------
 ax2.grid()
 ax2.set_xlabel(r'$t$[s]', fontsize=14 )
-ax2.set_ylabel(r'$\dot{y}$[m]', fontsize=14 )
+ax2.set_ylabel(r'$\dot{y}$[m/s]', fontsize=14 )
 
 plt.tight_layout()
 plt.show()
