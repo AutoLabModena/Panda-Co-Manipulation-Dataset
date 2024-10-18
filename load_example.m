@@ -41,12 +41,12 @@ subplot(2,2,2);
 %------------------
 box on; grid on;
 xlabel( '$t$[s]','FontSize',14,'Interpreter','latex');
-ylabel( '$\dot{x}$[m]','FontSize',14,'Interpreter','latex');
+ylabel( '$\dot{x}$[m/s]','FontSize',14,'Interpreter','latex');
 
 subplot(2,2,4);
 %------------------
 box on; grid on;
 xlabel( '$t$[s]','FontSize',14,'Interpreter','latex');
-ylabel( '$\dot{y}$[m]','FontSize',14,'Interpreter','latex');
+ylabel( '$\dot{y}$[m/s]','FontSize',14,'Interpreter','latex');
 
 
